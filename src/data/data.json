@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Farhan",
+    "email": "15200212@bsi.ac.id",
+    "prodi": "Ilmu Komputer",
+    "checked": false
+  },
+  {
+    "id": 2,
+    "name": "Dimas Miftakhul Fakri",
+    "email": "15200304@bsi.ac.id",
+    "prodi": "Ilmu Komputer",
+    "checked": false
+  },
+  {
+    "id": 3,
+    "name": "Aqshal Farhan Maulana",
+    "email": "15200300@bsi.ac.id",
+    "prodi": "Ilmu Komputer",
+    "checked": false
+  },
+  {
+    "id": 4,
+    "name": "Fauzan",
+    "email": "15200021@bsi.ac.id",
+    "prodi": "Ilmu Komputer",
+    "checked": false
+  }
+]
