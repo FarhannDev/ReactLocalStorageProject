@@ -1,0 +1,37 @@
+{
+  "students": [
+    {
+      "name": "Farhan",
+      "email": "farhan18042002@gmail.com",
+      "prodi": "Ilmu komputer",
+      "graduated": false,
+      "id": "lf0qht481uj6j5kpy",
+      "createdAt": "2023-03-09T06:34:41.960Z",
+      "updatedAt": "2023-03-09T06:34:41.960Z"
+    },
+    {
+      "name": "Dimas miftakhul fakri",
+      "email": "dimas@gmail.com",
+      "prodi": "Ilmu komputer",
+      "id": "lf0qi7i41nqo3poml",
+      "createdAt": "2023-03-09T06:35:00.604Z",
+      "updatedAt": "2023-03-09T06:35:00.604Z"
+    },
+    {
+      "name": "Aqsal farhan maulana ",
+      "email": "aqsalfarhan@mail.com",
+      "prodi": "Ilmu komputer",
+      "id": "lf0qiy3b1297y92hn",
+      "createdAt": "2023-03-09T06:35:35.063Z",
+      "updatedAt": "2023-03-09T06:35:35.063Z"
+    },
+    {
+      "name": "Diana Aulia",
+      "email": "diana@mail.com",
+      "prodi": "Ilmu komputer",
+      "id": "lf0qkzsx31fmj1z9v",
+      "createdAt": "2023-03-09T06:37:10.593Z",
+      "updatedAt": "2023-03-09T06:37:10.593Z"
+    }
+  ]
+}

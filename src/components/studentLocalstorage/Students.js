@@ -126,6 +126,7 @@ export const StudentsItem = ({ items }) => {
     }).then((result) => {
       if (result.isConfirmed) {
         deleteStudents(studentId);
+
         Swal.fire({
           icon: "success",
           title: "Berhasil",
